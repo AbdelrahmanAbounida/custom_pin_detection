@@ -1,11 +1,13 @@
 #  Custom Pin Detector Using Yolov7
 
 
-
 <a href="https://colab.research.google.com/drive/1lEErFNTEVRXDjjto7d14mVN1c8f47dGH?authuser=1#scrollTo=ghVlxZrF16wP"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>      [![Python 3.8](https://img.shields.io/badge/Python-3.8-3776AB?logo=python)](https://www.python.org/downloads/release/python-360/)
 
 
 ![](./pin.jpg)
+
+# Note:
+The dataset used during the training process doesn't exist in this repo
 
 # installation:
 
