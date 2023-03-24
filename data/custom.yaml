@@ -1,0 +1,9 @@
+train: './custom_pin_dataset/train'
+val: './custom_pin_dataset/val'
+test:  './custom_pin_dataset/test'
+#Classes
+nc: 1 # replace according to your number of classes
+#classes names
+
+
+names: ['Pin_A']
